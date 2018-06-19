@@ -1,9 +1,8 @@
 # ╱╱╱╱╱╱╱╱╲╲╲╱╲╱╱╱╱╲╲╲╱╲╲╲╱╱╱╱╲╱╱╱╱╱╲╲╱╱╲╱╱╲╱╱╲╲╲╲╱╱╱╲╲╱╲╲╲╱╲╱╲╱╱╱╲╲╲╲╲╲╱╱╲╱╲╲╲╱╱╲╲
 
 ## 10PRINT.js
-This is a program wrote in Node.js that recreates the single line program
-10PRINT using a single statement.  It contains no variables, no comments, no
-optional characters.  
+This is a program I wrote in Node.js that recreates the terse single line
+program 10PRINT using a single statement.
 
 10PRINT is a 30-some year old program written in BASIC on the Commodore 64.  It
 randomly writes forward- or back-slashes to the screen one at a time until the

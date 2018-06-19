@@ -22,7 +22,7 @@ while(1){process.stdout.write(String.fromCharCode(9585+Math.random()*2))}
 # Getting Started
 You'll need a terminal with git and node.js installed
 
-Clone this repository to your local environment
+Clone this repository to your local environment.  
 In the project directory use the following command:
 
 ```
@@ -53,7 +53,7 @@ while(1){process.stdout.write(Math.round(Math.random())?'╱':'╲')}
 ```
 
 # Making it look good
-The output of this program may looks better if you can change your font.  In
+The output of this program may look better if you can change your font.  In
 my terminal it looked best when I chose the font Futura, though there were
 several almost identical choices.
 

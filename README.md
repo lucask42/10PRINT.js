@@ -51,14 +51,14 @@ using their charCode instead of string literals:
 while(1){process.stdout.write(Math.round(Math.random())?'╱':'╲')}
 ```
 
-# Making it look good
+# Making it Look Good
 The output of this program may look better if you can change your font.  In
 my terminal it looked best when I chose the font Futura, though there were
 several almost identical choices.
 
 Picking a font that displays the slashes at 45 degrees is ideal.
 
-# Other neato burrito variations
+# Other Neato Burrito Variations
 
 ```
 while(1){process.stdout.write(String.fromCharCode(9585.95+Math.random()*1))}
@@ -90,7 +90,7 @@ while(1){process.stdout.write(String.fromCharCode(10548+Math.random()*4))}
 
 
 
-# Like to read?
+# Like to Read?
 There is a book written by Nick Montfort and others and is available to [read
 online](http://nickm.com/trope_tank/10_PRINT_121114.pdf).  It covers the back-ground,
 variations, ports to other languages (kinda like mine!), influences of 10PRINT

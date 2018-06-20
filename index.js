@@ -1,1 +1,1 @@
-while(1){process.stdout.write(String.fromCharCode(9585+Math.random()*2))}
+while(1){process.stdout.write(String.fromCharCode(9585.5+Math.random()))}

@@ -12,7 +12,7 @@ user stops the program.  10PRINT is typically shown in this form:
 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
 ```
 
-My port of this program into Node.js looks like this:
+My port of this program to Node.js looks like this:
 
 ```
 while(1){process.stdout.write(String.fromCharCode(9585+Math.random()*2))}

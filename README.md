@@ -93,7 +93,7 @@ while(1){process.stdout.write(String.fromCharCode(10548+Math.random()*4))}
 # Like to read?
 There is a book written by Nick Montfort and others and is available to [read
 online](http://nickm.com/trope_tank/10_PRINT_121114.pdf).  It covers the back-ground,
-variations, ports to other languages (like mine!), influences of 10PRINT
+variations, ports to other languages (kinda like mine!), influences of 10PRINT
 and topics like randomness, art, other one-line-programs, and other esoterica.
 
 Enjoy!

@@ -12,7 +12,7 @@ user stops the program.  10PRINT is typically shown in this form:
 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
 ```
 
-My translation of this program into Node.js looks like this:
+My port of this program into Node.js looks like this:
 
 ```
 while(1){process.stdout.write(String.fromCharCode(9585+Math.random()*2))}
@@ -92,8 +92,8 @@ while(1){process.stdout.write(String.fromCharCode(10548+Math.random()*4))}
 
 # Like to read?
 There is a book written by Nick Montfort and others and is available to [read
-online](http://nickm.com/trope_tank/10_PRINT_121114.pdf).  It covers the back-
-ground, variations, ports to other languages (like mine!), influences of 10PRINT
+online](http://nickm.com/trope_tank/10_PRINT_121114.pdf).  It covers the back-ground,
+variations, ports to other languages (like mine!), influences of 10PRINT
 and topics like randomness, art, other one-line-programs, and other esoterica.
 
 Enjoy!

@@ -15,7 +15,7 @@ user stops the program.  10PRINT is typically shown in this form:
 My port of this program to Node.js looks like this:
 
 ```
-while(1){process.stdout.write(String.fromCharCode(9585+Math.random()*2))}
+while(1){process.stdout.write(String.fromCharCode(9585.5+Math.random()))}
 ```
 
 # Getting Started
